@@ -1,11 +1,11 @@
 {
   "name": "reactjs-chrome",
-  "author": "Himanshu Batra",
-  "version": "1.0.1",
+  "author": "Maxime FERRET",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "watch": "webpack --watch --progress --config webpack.dev.js",
+    "dev": "webpack --watch --progress --config webpack.dev.js",
     "build": "webpack --watch --progress --config webpack.prod.js"
   },
   "devDependencies": {
