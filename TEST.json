@@ -1,0 +1,16 @@
+{
+  "leads_lists": [
+    {
+      "name": "",
+      "leads": [
+        {
+          "linkedin_profile_url": "",
+          "full_name": "",
+          "headline": "",
+          "location": "",
+          "connection_degree": ""
+        }
+      ]
+    }
+  ]
+}
